@@ -1,0 +1,19 @@
+{
+  "name": "snail.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "snail",
+    "snail.js",
+    "tools"
+  ],
+  "author": "Mehan alavimajd",
+  "license": "MIT"
+}
