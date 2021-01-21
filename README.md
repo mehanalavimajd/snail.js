@@ -1,2 +1,2 @@
 # snail.js
-a library with useful tools for node
+a library with useful tools for node.js
